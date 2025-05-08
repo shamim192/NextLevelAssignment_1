@@ -70,7 +70,7 @@ TypeScript allows us to combine types in powerful ways:
 
 ### ➕ Union Types
 
-Union Types: A union type allows a variable to accept values of multiple types. This is useful when a variable can have different types depending on the situation. We use the pipe (|) to define a type.
+A union type allows a variable to accept values of multiple types. This is useful when a variable can have different types depending on the situation. We use the pipe (|) to define a type.
 
 #### Example of Union Type:
 
@@ -86,7 +86,7 @@ function display(status: Status) {
 
 ### 🔗 Intersection Types
 
-Intersection Types: An intersection type allows us to combine multiple types into a single type. This is helpful when we want an object or value to satisfy multiple type definitions at the same time.We use the ampersand (&) to combine multiple types into one.
+An intersection type allows us to combine multiple types into a single type. This is helpful when we want an object or value to satisfy multiple type definitions at the same time.We use the ampersand (&) to combine multiple types into one.
 
 #### Example of Intersection Type:
 
