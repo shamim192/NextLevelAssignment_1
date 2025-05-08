@@ -101,3 +101,5 @@ const myDog: Dog = { name: "Buddy", age: 3, breed: "Golden Retriever" };
 ---
 
 These types help us create more robust, scalable, and type-safe code structures in TypeScript.
+
+Thank you for your reading.....
